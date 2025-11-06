@@ -299,10 +299,6 @@ ol {
   padding: 0 3px;
 }
 
-.content__card-link  {
-  background-color: #545050;
-}
-
 .content__card-link_current { 
   background-color: #545050;
 }
